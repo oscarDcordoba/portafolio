@@ -248,7 +248,3 @@ git rm nombre_del_archivo
 Este tutorial cubre los comandos básicos de Git y GitHub que necesitas para comenzar. A medida que te familiarices con estas herramientas, podrás gestionar tus proyectos y colaborar de manera más eficiente.
 
 Si tienes preguntas o deseas profundizar en algún tema específico, ¡no dudes en preguntar!
-
---- 
-
-¿Te gustaría incluir algún tema adicional o ejemplos prácticos?
